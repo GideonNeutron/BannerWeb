@@ -1,0 +1,84 @@
+course_id,name,instructor,max_students,enrolled_students,days,time,location
+CS101,Introduction to Programming,Dr. Smith,30,PRINT_TEST,MWF,9:00-10:15,Engineering 201
+CS236,Data Structures and Algorithms,Dr. Johnson,30,PRINT_TEST,TTh,10:30-11:45,Engineering 305
+MATH201,Calculus I,Prof. Williams,30,PRINT_TEST;G0044,MWF,10:30-11:45,Carver Hall 120
+ENG101,English Composition,Dr. Brown,25,PRINT_TEST;G0044,TTh,1:00-2:15,Liberal Arts 215
+PHY101,Physics I,Prof. Davis,30,,MWF,1:00-2:15,Carver Hall 310
+CS102,Programming II: Object-Oriented Design,Dr. Martinez,28,,TTh,9:00-10:15,Engineering 203
+CS210,Computer Organization,Dr. Chen,25,,MWF,11:00-12:15,Engineering 401
+CS240,Software Engineering,Dr. Anderson,30,G0044,TTh,2:30-3:45,Engineering 210
+CS305,Database Management Systems,Dr. Thompson,28,G0044,MW,4:00-5:15,Engineering 305
+CS320,Operating Systems,Prof. Garcia,25,,TTh,10:30-11:45,Engineering 410
+CS340,Web Development,Dr. Lee,32,G0044,MW,6:00-7:15,Engineering 215
+CS350,Artificial Intelligence,Dr. Patel,24,,TTh,1:00-2:15,Engineering 502
+CS401,Machine Learning,Prof. Rodriguez,20,,MW,3:00-4:15,Engineering 505
+CS425,Cybersecurity Fundamentals,Dr. Kim,25,,TTh,4:00-5:15,Engineering 308
+CS450,Computer Networks,Dr. Wilson,28,,MWF,2:00-3:15,Engineering 412
+MATH101,College Algebra,Prof. Taylor,35,,MWF,8:00-9:15,Carver Hall 105
+MATH202,Calculus II,Prof. Williams,30,,MWF,9:00-10:15,Carver Hall 122
+MATH203,Calculus III,Dr. Moore,25,,TTh,9:00-10:15,Carver Hall 218
+MATH215,Linear Algebra,Prof. Jackson,28,,MW,1:00-2:15,Carver Hall 205
+MATH301,Differential Equations,Dr. White,24,,TTh,2:30-3:45,Carver Hall 310
+MATH310,Discrete Mathematics,Prof. Harris,30,,MWF,10:30-11:45,Carver Hall 115
+MATH405,Abstract Algebra,Dr. Martin,18,,TTh,3:00-4:15,Carver Hall 405
+PHY102,Physics II,Prof. Davis,30,,MWF,9:00-10:15,Carver Hall 312
+PHY201,Modern Physics,Dr. Clark,25,,TTh,11:00-12:15,Carver Hall 420
+PHY305,Thermodynamics,Prof. Lewis,22,,MW,2:30-3:45,Carver Hall 408
+CHEM101,General Chemistry I,Dr. Walker,32,,MWF,8:00-9:15,Carver Hall 101
+CHEM102,General Chemistry II,Dr. Hall,32,,MWF,10:30-11:45,Carver Hall 103
+CHEM201,Organic Chemistry I,Prof. Allen,28,,TTh,9:00-10:15,Carver Hall 201
+CHEM202,Organic Chemistry II,Prof. Young,26,,TTh,1:00-2:15,Carver Hall 203
+BIO101,Introduction to Biology,Dr. King,35,,MWF,9:00-10:15,Carver Hall 110
+BIO201,Cell Biology,Dr. Wright,28,,TTh,10:30-11:45,Carver Hall 205
+BIO205,Genetics,Prof. Lopez,26,,MW,11:00-12:15,Carver Hall 302
+BIO301,Microbiology,Dr. Hill,24,,TTh,2:30-3:45,Carver Hall 401
+BIO310,Ecology,Prof. Green,25,,MWF,1:00-2:15,Carver Hall 150
+ENG102,Literature and Composition,Dr. Adams,28,,MWF,11:00-12:15,Liberal Arts 220
+ENG205,American Literature,Prof. Baker,25,,TTh,9:00-10:15,Liberal Arts 312
+ENG210,World Literature,Dr. Nelson,26,,MW,10:30-11:45,Liberal Arts 305
+ENG305,Creative Writing,Prof. Carter,20,,TTh,3:00-4:15,Liberal Arts 425
+ENG320,Shakespeare Studies,Dr. Mitchell,22,,MW,4:00-5:15,Liberal Arts 410
+HIST101,World History I,Prof. Perez,32,,MWF,10:30-11:45,Liberal Arts 118
+HIST102,World History II,Prof. Roberts,32,,MWF,1:00-2:15,Liberal Arts 120
+HIST201,American History,Dr. Turner,30,,TTh,11:00-12:15,Liberal Arts 210
+HIST305,Modern European History,Prof. Phillips,24,,MW,2:00-3:15,Liberal Arts 315
+PSYCH101,Introduction to Psychology,Dr. Campbell,40,,MWF,9:00-10:15,Social Sciences 101
+PSYCH201,Developmental Psychology,Prof. Parker,28,,TTh,10:30-11:45,Social Sciences 205
+PSYCH210,Social Psychology,Dr. Evans,26,,MWF,11:00-12:15,Social Sciences 310
+PSYCH305,Cognitive Psychology,Prof. Edwards,24,,TTh,1:00-2:15,Social Sciences 402
+PSYCH310,Abnormal Psychology,Dr. Collins,28,,MW,3:00-4:15,Social Sciences 215
+SOC101,Introduction to Sociology,Prof. Stewart,35,,MWF,10:30-11:45,Social Sciences 105
+SOC201,Social Problems,Dr. Morris,28,,TTh,9:00-10:15,Social Sciences 220
+SOC305,Race and Ethnicity,Prof. Rogers,25,,MW,1:00-2:15,Social Sciences 318
+ECON101,Principles of Microeconomics,Dr. Reed,32,,MWF,9:00-10:15,JTS 102
+ECON102,Principles of Macroeconomics,Dr. Cook,32,,MWF,11:00-12:15,JTS 104
+ECON301,Intermediate Microeconomics,Prof. Morgan,24,,TTh,2:30-3:45,JTS 305
+BUS101,Introduction to Business,Dr. Bell,35,,MWF,8:00-9:15,JTS 110
+BUS201,Business Statistics,Prof. Murphy,28,,TTh,10:30-11:45,JTS 208
+BUS220,Principles of Marketing,Dr. Bailey,30,,MW,9:00-10:15,JTS 315
+BUS305,Organizational Behavior,Prof. Rivera,26,,TTh,1:00-2:15,JTS 402
+BUS310,Financial Accounting,Dr. Cooper,28,,MWF,1:00-2:15,JTS 210
+BUS401,Strategic Management,Prof. Richardson,22,,TTh,3:00-4:15,JTS 420
+ENGR101,Introduction to Engineering,Dr. Cox,30,,MWF,10:30-11:45,Engineering 101
+ENGR201,Engineering Mechanics,Prof. Howard,26,,TTh,9:00-10:15,Engineering 310
+ENGR210,Electrical Circuits,Dr. Ward,24,,MW,11:00-12:15,Engineering 415
+ENGR305,Fluid Mechanics,Prof. Torres,22,,TTh,2:30-3:45,Engineering 510
+ENGR320,Materials Science,Dr. Peterson,24,,MWF,2:00-3:15,Engineering 405
+ART101,Introduction to Art,Prof. Gray,28,,MW,10:30-11:45,Fine Arts Center 105
+ART201,Drawing I,Dr. Ramirez,20,,TTh,1:00-2:15,Fine Arts Center 201
+ART210,Painting Fundamentals,Prof. James,18,,MW,3:00-4:15,Fine Arts Center 210
+ART305,Digital Art and Design,Dr. Watson,24,,TTh,4:00-5:15,Fine Arts Center 305
+MUS101,Music Appreciation,Prof. Brooks,32,,MWF,11:00-12:15,Music Hall 110
+MUS201,Music Theory I,Dr. Kelly,22,,TTh,10:30-11:45,Music Hall 205
+MUS305,Advanced Music Composition,Dr. Price,16,,TTh,3:00-4:15,Music Hall 310
+PHIL101,Introduction to Philosophy,Dr. Bennett,30,,MWF,9:00-10:15,Liberal Arts 408
+PHIL201,Ethics,Prof. Wood,28,,TTh,11:00-12:15,Liberal Arts 502
+PHIL305,Logic and Critical Thinking,Dr. Barnes,24,,MW,1:00-2:15,Liberal Arts 418
+COMM101,Public Speaking,Dr. Ross,26,G0044,TTh,9:00-10:15,Communications 115
+COMM201,Interpersonal Communication,Prof. Henderson,28,,MWF,10:30-11:45,Communications 220
+COMM305,Mass Media and Society,Dr. Coleman,30,,TTh,2:30-3:45,Communications 310
+PE101,Physical Fitness,Coach Johnson,40,,MWF,8:00-9:15,Gymnasium A
+PE201,Team Sports,Coach Williams,35,,TTh,8:00-9:15,Sports Complex
+STAT201,Introduction to Statistics,Dr. Jenkins,32,G0044,MWF,1:00-2:15,Carver Hall 108
+STAT301,Probability Theory,Prof. Perry,24,G0044,TTh,10:30-11:45,Carver Hall 220
+STAT401,Applied Statistical Methods,Dr. Powell,20,,MW,4:00-5:15,Carver Hall 315
