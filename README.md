@@ -269,14 +269,6 @@ self.enrolled_students: Set[str] = set()
 
 ---
 
-## Author
-
-**CS 236 Student**  
-Date: 2024  
-Assignment: Final Lab #5 - Course Registration System
-
----
-
 ## Support
 
 For issues or questions:
